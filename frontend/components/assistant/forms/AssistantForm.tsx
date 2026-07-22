@@ -104,6 +104,7 @@ if(missingField){
 
 
       const data = await response.json();
+      console.log("API RESPONSE:", data);
 
 
 // simulate AI processing time

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import {
   ArrowRight,
   Bot,
@@ -54,14 +55,16 @@ export default function CTA() {
             <div className="mt-8 flex flex-wrap justify-center gap-4">
 
 
-              <button className="btn-primary flex items-center gap-2">
+              <Link
+  href="/assistant"
+  className="btn-primary flex items-center gap-2"
+>
 
-                Try Yojana AI
+  Try Yojana AI
 
-                <ArrowRight size={18} />
+  <ArrowRight size={18} />
 
-              </button>
-
+</Link>
 
               <button className="rounded-full border border-slate-300 px-6 py-3 font-semibold text-slate-700 transition hover:bg-white">
 

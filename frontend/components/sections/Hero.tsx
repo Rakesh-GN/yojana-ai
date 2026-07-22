@@ -1,3 +1,4 @@
+import Link from "next/link";
 import {
   ArrowRight,
   Bot,
@@ -5,7 +6,7 @@ import {
   Sparkles,
   ShieldCheck,
 } from "lucide-react";
-
+ 
 export default function Hero() {
   return (
     <section className="relative overflow-hidden py-24">
@@ -60,13 +61,16 @@ export default function Hero() {
           <div className="mt-8 flex flex-wrap gap-4">
 
 
-            <button className="flex items-center gap-2 rounded-full bg-blue-600 px-7 py-3 font-semibold text-white shadow-md shadow-blue-200 transition hover:bg-blue-700">
+            <Link
+  href="/assistant"
+  className="flex items-center gap-2 rounded-full bg-blue-600 px-7 py-3 font-semibold text-white shadow-md shadow-blue-200 transition hover:bg-blue-700"
+>
 
-              Find My Scheme
+  Find My Scheme
 
-              <ArrowRight size={18}/>
+  <ArrowRight size={18}/>
 
-            </button>
+</Link>
 
 
 
