@@ -1,0 +1,170 @@
+[
+  {
+    "name": "PM Scholarship Scheme",
+    "category": "Education",
+    "occupation": "Student",
+    "income_limit": 250000,
+    "benefit": "Financial support for education",
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Student ID"
+    ]
+  },
+  {
+    "name": "National Education Assistance Scheme",
+    "category": "Education",
+    "occupation": "Student",
+    "income_limit": 400000,
+    "benefit": "Scholarship support for higher studies",
+    "documents": [
+      "Aadhaar Card",
+      "Mark Sheet",
+      "Income Certificate"
+    ]
+  },
+  {
+    "name": "Ayushman Bharat Health Scheme",
+    "category": "Healthcare",
+    "occupation": "Any",
+    "income_limit": 300000,
+    "benefit": "Health insurance coverage",
+    "documents": [
+      "Aadhaar Card",
+      "Ration Card"
+    ]
+  },
+  {
+    "name": "National Health Support Scheme",
+    "category": "Healthcare",
+    "occupation": "Any",
+    "income_limit": 500000,
+    "benefit": "Medical assistance for eligible families",
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate"
+    ]
+  },
+  {
+    "name": "PM Kisan Samman Nidhi",
+    "category": "Agriculture",
+    "occupation": "Farmer",
+    "income_limit": 500000,
+    "benefit": "Income support for farmers",
+    "documents": [
+      "Aadhaar Card",
+      "Land Documents"
+    ]
+  },
+  {
+    "name": "Farmer Equipment Assistance Scheme",
+    "category": "Agriculture",
+    "occupation": "Farmer",
+    "income_limit": 600000,
+    "benefit": "Financial assistance for agricultural equipment",
+    "documents": [
+      "Aadhaar Card",
+      "Farmer ID",
+      "Land Documents"
+    ]
+  },
+  {
+    "name": "Startup India Support",
+    "category": "Business",
+    "occupation": "Business Owner",
+    "income_limit": 700000,
+    "benefit": "Support for entrepreneurs",
+    "documents": [
+      "Business Registration",
+      "Aadhaar Card"
+    ]
+  },
+  {
+    "name": "Entrepreneur Development Scheme",
+    "category": "Business",
+    "occupation": "Business Owner",
+    "income_limit": 800000,
+    "benefit": "Financial support for small businesses",
+    "documents": [
+      "Business Plan",
+      "Aadhaar Card"
+    ]
+  },
+  {
+    "name": "Women Empowerment Scheme",
+    "category": "Women Welfare",
+    "occupation": "Any",
+    "income_limit": 400000,
+    "benefit": "Financial assistance for women development",
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate"
+    ]
+  },
+  {
+    "name": "Girl Child Support Scheme",
+    "category": "Women Welfare",
+    "occupation": "Student",
+    "income_limit": 300000,
+    "benefit": "Support for girl child education",
+    "documents": [
+      "Birth Certificate",
+      "Aadhaar Card"
+    ]
+  },
+  {
+    "name": "PM Employment Generation Scheme",
+    "category": "Employment",
+    "occupation": "Unemployed",
+    "income_limit": 500000,
+    "benefit": "Employment and skill development support",
+    "documents": [
+      "Aadhaar Card",
+      "Education Certificate"
+    ]
+  },
+  {
+    "name": "Skill Development Mission",
+    "category": "Employment",
+    "occupation": "Student",
+    "income_limit": 350000,
+    "benefit": "Free skill training programs",
+    "documents": [
+      "Aadhaar Card",
+      "Education Certificate"
+    ]
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana",
+    "category": "Housing",
+    "occupation": "Any",
+    "income_limit": 600000,
+    "benefit": "Housing assistance for eligible citizens",
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate"
+    ]
+  },
+  {
+    "name": "Rural Housing Support Scheme",
+    "category": "Housing",
+    "occupation": "Farmer",
+    "income_limit": 450000,
+    "benefit": "Financial help for house construction",
+    "documents": [
+      "Aadhaar Card",
+      "Land Documents"
+    ]
+  },
+  {
+    "name": "Digital India Training Scheme",
+    "category": "Employment",
+    "occupation": "Student",
+    "income_limit": 300000,
+    "benefit": "Digital skills training support",
+    "documents": [
+      "Aadhaar Card",
+      "Student ID"
+    ]
+  }
+]

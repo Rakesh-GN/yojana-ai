@@ -12,4 +12,9 @@ backend/__pycache__/
 
 # OS files
 .DS_Store
-Thumbs.db
+Thumbs.db  
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
