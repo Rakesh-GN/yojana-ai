@@ -8,6 +8,17 @@ The system uses an AI-assisted recommendation engine to analyze citizen informat
 
 ---
 
+# 🌐 Live Demo
+
+Frontend:
+https://yojana-ai-lime.vercel.app/
+
+Backend API:
+https://yojana-ai-rdc7.onrender.com/
+
+---
+---
+
 ## 🌟 Problem Statement
 
 Millions of citizens are eligible for government schemes but struggle to find the right schemes due to:
@@ -73,7 +84,7 @@ Example:
 
 ---
 
-## 💬 AI Assistant
+## 💬 AI Assistant Architecture
 
 Users can interact with an AI assistant to get help related to government schemes and benefits.
 
@@ -159,7 +170,7 @@ YOJANA-AI/
 ## Clone Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Rakesh-GN/yojana-ai.git
 
 cd yojana-ai
 ```
@@ -203,7 +214,10 @@ uvicorn app.main:app --reload
 Backend runs at:
 
 ```
-http://127.0.0.1:8000
+http://127.0.0.1:8000 
+Production Backend:
+
+https://yojana-ai-rdc7.onrender.com
 ```
 
 ---
@@ -236,6 +250,24 @@ http://localhost:3000
 
 ---
 
+---
+
+# 🚀 Deployment
+
+## Frontend
+
+Deployed using Vercel:
+
+https://yojana-ai-lime.vercel.app/
+
+
+## Backend
+
+Deployed using Render:
+
+https://yojana-ai-rdc7.onrender.com/
+
+---
 # 🔄 How Recommendation Works
 
 1. Citizen enters personal details.
@@ -302,7 +334,7 @@ Example request:
 
 # 👨‍💻 Author
 
-**Rakesh**
+**Rakesh GN**
 
 ---
 
