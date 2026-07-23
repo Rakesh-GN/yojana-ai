@@ -88,7 +88,7 @@ if(missingField){
 
 
       const response = await fetch(
-        "http://localhost:8000/schemes/recommend",
+        "https://yojana-ai-rdc7.onrender.com/schemes/recommend",
         {
           method: "POST",
           headers:{
